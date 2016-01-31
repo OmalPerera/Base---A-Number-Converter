@@ -1,0 +1,13 @@
+E:\Windows base\Windows base\bin\Debug\Windows base.exe.config
+E:\Windows base\Windows base\bin\Debug\Windows base.exe
+E:\Windows base\Windows base\bin\Debug\Windows base.pdb
+E:\Windows base\Windows base\obj\Debug\Windows_base.Form1.resources
+E:\Windows base\Windows base\obj\Debug\Windows_base.Properties.Resources.resources
+E:\Windows base\Windows base\obj\Debug\Windows base.csproj.GenerateResource.Cache
+E:\Windows base\Windows base\obj\Debug\Windows base.exe
+E:\Windows base\Windows base\obj\Debug\Windows base.pdb
+E:\Windows base\Windows base\obj\Debug\Windows base.csprojResolveAssemblyReference.cache
+E:\Windows base\Windows base\bin\Debug\Windows base.exe.manifest
+E:\Windows base\Windows base\bin\Debug\Windows base.application
+E:\Windows base\Windows base\obj\Debug\Windows base.exe.manifest
+E:\Windows base\Windows base\obj\Debug\Windows base.application
